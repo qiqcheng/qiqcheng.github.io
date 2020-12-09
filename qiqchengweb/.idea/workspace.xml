@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3cfb459-9f71-42a0-a641-7e21fc906ed0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Graduation/pic9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic (20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/images/album-Manman/pic9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery-05.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery-05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-cn.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-cn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -282,7 +314,9 @@
       <workItem from="1515418943544" duration="2228000" />
       <workItem from="1515482386159" duration="4564000" />
       <workItem from="1607244133367" duration="2125000" />
-      <workItem from="1607332763999" duration="15017000" />
+      <workItem from="1607332763999" duration="15616000" />
+      <workItem from="1607408746294" duration="591000" />
+      <workItem from="1607490854090" duration="3512000" />
     </task>
     <servers />
   </component>
